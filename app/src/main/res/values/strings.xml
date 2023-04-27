@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Networking</string>
+    <string name="textview_1">TextView - 1</string>
 </resources>
