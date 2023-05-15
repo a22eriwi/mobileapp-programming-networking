@@ -21,4 +21,4 @@ Adapter.notifyDataSetChanged();
 }
 
 Nedan kan man se en screenshot på hur informationen ser ut när den skrivs ut i RecyclerViewn
-![img.png](img.png)
+![img_1.png](img_1.png)
